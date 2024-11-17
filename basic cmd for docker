@@ -1,0 +1,19 @@
+yum install docker -y
+
+yum install phython -y (optional)
+
+docker --version
+
+docker run -dt ubantu /bin/bash      (detach mode)=making containers from image without entering container is called detach mode that is dt
+
+docker images (shows the images present in docker )
+
+
+docker ps      (shows running containers )
+
+
+docker ps -a    (shows running and stopped containers )
+
+
+
+
