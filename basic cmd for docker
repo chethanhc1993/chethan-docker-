@@ -14,6 +14,12 @@ docker ps      (shows running containers )
 
 docker ps -a    (shows running and stopped containers )
 
+docker exce -dt  (docker id) /bin/bash       ( to enter  inside particular container )
+
+
+docker stop (docker container id )        ( to stop container )
+
+
 
 
 
